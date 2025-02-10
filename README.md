@@ -157,7 +157,7 @@ A classic snake game built in C++ using the console. The game features smooth mo
 
 The game stores the highest score in a file named `HighScore.txt`. The highest score updates automatically when you beat your previous record.
 
-## 🖼️ Preview
+# 🖼️ Preview
 
 ## Rulebook
 ![Game Interface Screenshot](preview.png)
