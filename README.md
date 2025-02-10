@@ -159,8 +159,8 @@ The game stores the highest score in a file named `HighScore.txt`. The highest s
 
 ## 🖼️ Preview
 
-![Game Interface Screenshot](c:\Users\Dell\OneDrive\Pictures\Screenshots\preview.png)
-![Snake Game Rulebook](c:\Users\Dell\OneDrive\Pictures\Screenshots\Snake_game.png)
+![Game Interface Screenshot](preview.png)
+![Snake Game Rulebook](Snake_game.png)
 
 ## 👨‍💻 Contributing
 
